@@ -1,0 +1,23 @@
+{
+  "name": "nolifebot",
+  "version": "1.0.0",
+  "description": "A discord bot for the Nolife discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thmundal/NolifeBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Thomas Mundal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thmundal/NolifeBot/issues"
+  },
+  "homepage": "https://github.com/thmundal/NolifeBot#readme"
+}
